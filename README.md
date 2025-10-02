@@ -5,6 +5,8 @@
 **The Wild Oasis** is a modern booking platform built with **Next.js**, **Supabase**, and **Tailwind CSS**.  
 It allows users to browse and reserve luxury cabins with a smooth and responsive UI.
 
+🔗 **Live Demo:** [The Wild Oasis Website](https://the-wild-oasis-next-website.vercel.app/)
+
 This project demonstrates advanced Next.js features such as:
 
 - Server & Client Components
