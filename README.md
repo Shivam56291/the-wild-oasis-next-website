@@ -46,7 +46,24 @@ This project demonstrates advanced Next.js features such as:
 
 ## 📁 Project Structure
 
-<pre> ```plaintext app/ ├── _components/ │ ├── Cabin.js │ ├── ReservationForm.js │ ├── UpdateButton.js │ └── ReservationContext.js ├── cabins/ │ ├── [cabinId]/ │ │ ├── page.js │ │ ├── layout.js │ │ └── loading.js │ └── page.js ├── layout.js ├── page.js └── globals.css ``` </pre>
+```
+app/
+├── _components/
+│   ├── Cabin.js
+│   ├── ReservationForm.js
+│   ├── UpdateButton.js
+│   └── ReservationContext.js
+├── cabins/
+│   ├── [cabinId]/
+│   │   ├── page.js
+│   │   ├── layout.js
+│   │   └── loading.js
+│   └── page.js
+├── layout.js
+├── page.js
+└── globals.css
+```
+
 
 ---
 
